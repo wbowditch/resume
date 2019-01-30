@@ -23,15 +23,12 @@ youtube_username: globalmtb
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm a Boston College graduate working in the Edinburgh office of SecureWorks, as well as pursuing a part time MSc at Edinburgh Napier Univeristy in Advanced Security and Digitial Forensics.
+  Hi, I'm a software engineer working in the Edinburgh office of SecureWorks, as well as pursuing an MSc at Edinburgh Napier Univeristy in Advanced Security and Digitial Forensics.
 
-  My work consists of developing the SecureWorks Machine Learning Engine [Foresee](https://www.secureworks.com/blog/foresee-human-and-machine-learning-working-together) and our User Entity Behaviour Analysis using [Apache Spark](https://spark.apache.org) 
+  My work spread across many big data analytical projects, but mainly consists of developing [Foresee](https://www.secureworks.com/blog/foresee-human-and-machine-learning-working-together) and [User Behaviour Analytics](https://en.wikipedia.org/wiki/User_behavior_analytics)
   
-  I am most skilled in: <mark>Java</mark>,<mark>Python</mark>,<mark>Scala</mark>, and <mark>AWS</mark>
+  I am most skilled in: <mark>Java</mark>, <mark>Python</mark>, <mark>Scala</mark>, and <mark>AWS</mark>
 
-
-# Projects Section
-# projects_title: Projects
 
 # Experience Section
 # experience_title: Experience
